@@ -65,5 +65,3 @@ LinkedList.prototype.peek = function peekNode(index) {
 
     return curr;
 }
-
-var list = new LinkedList();
